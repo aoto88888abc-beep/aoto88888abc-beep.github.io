@@ -48,7 +48,7 @@ tags:
 
 具體公式語法可以查：
 
-> https://www.cnblogs.com/wreng/articles/13514391.html
+> [https://www.cnblogs.com/wreng/articles/13514391.html](https://www.cnblogs.com/wreng/articles/13514391.html)
 
 
 
@@ -222,14 +222,14 @@ $ \Sigma= \lbrace 0, 1 \rbrace $
 
 ## Quote
 
-> http://cn.voidcc.com/question/p-bzhlwrjt-py.html
+> [http://cn.voidcc.com/question/p-bzhlwrjt-py.html](http://cn.voidcc.com/question/p-bzhlwrjt-py.html)
 >
-> https://github.com/Huxpro/huxpro.github.io/pull/398/commits
+> [https://github.com/Huxpro/huxpro.github.io/pull/398/commits](https://github.com/Huxpro/huxpro.github.io/pull/398/commits)
 >
-> https://brucezhaor.github.io/blog/2016/01/07/Mathjax-with-jekyll/
+> [https://brucezhaor.github.io/blog/2016/01/07/Mathjax-with-jekyll/](https://brucezhaor.github.io/blog/2016/01/07/Mathjax-with-jekyll/)
 >
-> https://www.zhihu.com/question/343751976/answer/809450524
+> [https://www.zhihu.com/question/343751976/answer/809450524](https://www.zhihu.com/question/343751976/answer/809450524)
 >
-> https://segmentfault.com/q/1010000007941694/a-1020000011904225
+> [https://segmentfault.com/q/1010000007941694/a-1020000011904225](https://segmentfault.com/q/1010000007941694/a-1020000011904225)
 >
-> https://www.bilibili.com/read/cv1578688/
+> [https://www.bilibili.com/read/cv1578688/](https://www.bilibili.com/read/cv1578688/)
