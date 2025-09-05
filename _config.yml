@@ -4,7 +4,7 @@ SEOTitle: Allen的部落格 | Allen's Blog
 header-img: img/home-bg.webp
 email: 4103allen@gmail.com
 description: "這裡是Allen的部落格，分享技術和生活"
-keyword: "Allen's Blog, 博客, Allen, 部落格, allenspace, blog"
+keyword: "Allen's Blog, 博客, Allen, 部落格, allenspace, blog, allenblog"
 url: "https://blog.allenspace.de" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -71,8 +71,8 @@ giscus:
   category_id: DIC_kwDOPaqk9c4Cuwao # leave empty or specify your category_id (see https://giscus.app/)
   mapping: pathname # identify discussions by post path
   strict: 0 # use strict identification mode
-  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
-  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+  reactions_enabled: 0 # enable (1) or disable (0) emoji reactions
+  input_position: top # whether to display input form below (bottom) or above (top) the comments
   dark_theme: dark # name of the dark color scheme (preferred works well with dark mode)
   light_theme: light # name of the light color scheme (preferred works well with light mode)
   emit_metadata: 0
