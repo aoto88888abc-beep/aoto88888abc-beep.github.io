@@ -2,8 +2,8 @@
 layout:     post
 title:      "C/C++ Tab Space 對齊測試"
 subtitle:   "測試代碼註解中 tab 和 space 混用的對齊問題"
-date:       2024-12-31 19:00:00
-author:     "allen5218"
+date:       2025-08-16
+author:     "Claude"
 header-img: "https://cdn.jsdelivr.net/gh/allen57218/img@main/img/20250830050705_evvnbpcj0l.webp"
 catalog: true
 tags:
@@ -11,6 +11,8 @@ tags:
     - C++
     - 代碼對齊
 ---
+
+> 這篇測試文章由 Claude 生成，用於驗證新功能的運作是否正常，以及頁面樣式是否正確顯示。我選擇保留這些內容，作為未來回顧的足跡，讓我能憶起建置初期時的點滴
 
 ## Tab 和 Space 混用對齊問題測試
 

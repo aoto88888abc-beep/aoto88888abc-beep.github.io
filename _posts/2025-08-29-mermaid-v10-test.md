@@ -2,15 +2,16 @@
 layout: post
 title: "Mermaid 10.9.0 升級測試"
 subtitle: "驗證新版本功能與深色模式適配"
-date: 2025-01-29 12:00:00
-author: "Blog Admin"
+date: 2025-08-29
+author: "Claude"
 header-img: "https://cdn.jsdelivr.net/gh/allen57218/img@main/img/20250829134534_8uey3fsxe7.webp"
 tags:
-    - 技術
     - Mermaid
     - 測試
 mermaid: true
 ---
+
+> 這篇測試文章由 Claude 生成，用於驗證新功能的運作是否正常，以及頁面樣式是否正確顯示。我選擇保留這些內容，作為未來回顧的足跡，讓我能憶起建置初期時的點滴
 
 ## Mermaid 10.9.0 功能測試
 
