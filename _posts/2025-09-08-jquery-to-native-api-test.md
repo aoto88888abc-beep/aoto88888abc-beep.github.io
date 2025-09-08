@@ -15,7 +15,7 @@ tags:
     - 測試
 ---
 
-> 這篇測試文章由 Claude 生成，用於驗證新功能的運作是否正常，以及頁面樣式是否正確顯示。我選擇保留這些內容，作為未來回顧的足跡，讓我能憶起建置初期時的點滴
+> 這篇測試文章由 Claude 生成，用於驗證新功能的運作是否正常，以及頁面樣式是否正確顯示。我選擇保留這些內容，作為未來回顧的足跡
 
 > 本測試文章用於驗證jQuery功能重構為原生Web API後的正常運作。包含表格響應式包裝、視頻嵌入處理和返回頂部按鈕功能測試。
 
@@ -67,10 +67,7 @@ tags:
 以下測試YouTube和Vimeo視頻的自動響應式包裝：
 
 ### YouTube視頻測試
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-
-### Vimeo視頻測試
-<iframe src="https://player.vimeo.com/video/1234567" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 ### 預期行為
 - 上述視頻應該自動被包裝在 `<div class="embed-responsive embed-responsive-16by9">` 中
