@@ -171,10 +171,15 @@
     generateCatalog(".catalog-body");
 
     // toggle side catalog
-    $(".catalog-toggle").click((function (e) {
-        e.preventDefault();
-        $('.side-catalog').toggleClass("fold")
-    }))
+    document.querySelectorAll('.catalog-toggle').forEach(function(toggle) {
+        toggle.addEventListener('click', function(e) {
+            e.preventDefault();
+            const sideCatalog = document.querySelector('.side-catalog');
+            if (sideCatalog) {
+                sideCatalog.classList.toggle('fold');
+            }
+        });
+    });
 
     /*
      * Doc: https://github.com/davist11/jQuery-One-Page-Nav

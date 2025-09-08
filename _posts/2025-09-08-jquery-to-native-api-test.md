@@ -30,6 +30,7 @@ tags:
 | 表格響應式包裝 | `$("table").wrap()` | `createElement + insertBefore` | ✅ |
 | 視頻嵌入處理 | `$('iframe[src*="youtube.com"]').wrap()` | `querySelectorAll + forEach` | ✅ |
 | 返回頂部按鈕 | `$('#back-top').fadeIn()` | `Web Animations API` | ✅ |
+| 側邊目錄切換 | `$('.side-catalog').toggleClass()` | `classList.toggle()` | ✅ 階段2A |
 | 構建工具升級 | `grunt-contrib-uglify@4.0.1` | `grunt-contrib-uglify@5.2.2` | ✅ |
 
 ## 📊 表格響應式包裝功能測試
@@ -182,6 +183,12 @@ document.addEventListener('DOMContentLoaded', function() {
 - [ ] 滾動回頂部時按鈕是否隱藏？
 - [ ] 點擊按鈕是否平滑滾動到頂部？
 - [ ] 動畫效果是否流暢？
+
+### 側邊目錄切換功能測試 ✅ (階段2A新增)
+- [ ] 文章頁面是否顯示側邊目錄？
+- [ ] 點擊目錄切換按鈕是否能正常收合目錄？
+- [ ] 動畫效果是否平滑？
+- [ ] 原生API實現是否與jQuery版本行為一致？
 
 ### 性能測試 ✅
 - [ ] 頁面載入速度是否有提升？
