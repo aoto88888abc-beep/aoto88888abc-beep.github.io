@@ -4,14 +4,18 @@ title: "jQuery重構為原生Web API功能測試"
 subtitle: "驗證表格響應式、視頻嵌入與返回頂部功能的原生實現"
 date: 2025-09-08
 author: "Claude"
-header-img: "https://cdn.jsdelivr.net/gh/allen57218/img@main/img/20250908_jquery_refactor.webp"
+header-img: ""
+header-bg-css: "linear-gradient(to right, #13294E, #315B7D);"
 tags:
     - JavaScript
     - jQuery
     - 原生API
     - 響應式設計
     - 性能優化
+    - 測試
 ---
+
+> 這篇測試文章由 Claude 生成，用於驗證新功能的運作是否正常，以及頁面樣式是否正確顯示。我選擇保留這些內容，作為未來回顧的足跡，讓我能憶起建置初期時的點滴
 
 > 本測試文章用於驗證jQuery功能重構為原生Web API後的正常運作。包含表格響應式包裝、視頻嵌入處理和返回頂部按鈕功能測試。
 
