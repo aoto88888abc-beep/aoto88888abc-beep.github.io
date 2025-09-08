@@ -40,8 +40,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // responsive embed videos
 document.addEventListener('DOMContentLoaded', function() {
-    // Handle YouTube videos
-    document.querySelectorAll('iframe[src*="youtube.com"]').forEach(function(iframe) {
+    // Handle YouTube videos (including youtube-nocookie.com)
+    document.querySelectorAll('iframe[src*="youtube.com"], iframe[src*="youtube-nocookie.com"]').forEach(function(iframe) {
         const wrapper = document.createElement('div');
         wrapper.className = 'embed-responsive embed-responsive-16by9';
         iframe.parentNode.insertBefore(wrapper, iframe);
