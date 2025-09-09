@@ -88,7 +88,7 @@ ga_domain: aoto88888abc-beep.github.io
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "分享技術和生活"
-sidebar-avatar: https://cdn.jsdelivr.net/gh/allen57218/img@main/img/20250826090636_vjw18op3u3.webp # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:https://avatars.githubusercontent.com/u/231176852?v=4 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
