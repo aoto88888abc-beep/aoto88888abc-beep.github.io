@@ -1,10 +1,10 @@
 # Site settings
 title: Allen's Blog
-SEOTitle: Allen的部落格 | Allen's Blog
+SEOTitle: Aoto的部落格 | Aoto's Blog
 header-img: img/home-bg.webp
-email: 4103allen@gmail.com
-description: "這裡是Allen的部落格，分享技術和生活"
-keyword: "Allen's Blog, 博客, Allen, 部落格, allenspace, blog, allenblog"
+email: aoto88888abc@gmail.com
+description: "這裡是Aoto的部落格，分享技術和生活"
+keyword: blog, aotoblog"
 url: "https://aoto88888abc-beep.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
